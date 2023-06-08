@@ -1,0 +1,14 @@
+.tip-head {
+  font-size: 25px;
+  margin: 20px 20px;
+  width: fit-content;
+}
+
+.tippy-box {
+  background-color: green !important; /* Set the background color */
+  color: white !important; /* Set the text color */
+}
+
+.tippy-arrow {
+  color: green !important;
+}
